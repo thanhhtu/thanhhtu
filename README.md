@@ -1,8 +1,7 @@
 <h1 align="center">Hi there, I'm Thanh Tu 👋</h1>
-<h2 align="center">A passionate developer 😀</h2>
 
 ## About me:
-🌱 I'm a student at Danang University of Technology (DUT)
+🌱 I'm a student at Danang University of Technology. <br>
 
 ## Activities:
 <table style="width:100%">
