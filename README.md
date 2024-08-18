@@ -6,8 +6,8 @@
 ## Activities:
 <table style="width:100%">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=thanhhtu&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&custom_title=Thanh%20Tu's%20GitHub%20Stats" alt="thanhhtu's github stats" width="100%"/>
+    <td> 
+      <img src="https://github-readme-stats.vercel.app/api?username=thanhhtu&show_icons=true&count_private=true&theme=buefy&hide_border=true&custom_title=Thanh%20Tu's%20GitHub%20Stats" alt="thanhhtu's github stats" width="100%"/>
     </td>
     <td>
       <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thanhhtu&layout=compact&theme=buefy&hide_border=true" alt="thanhhtu's most used languages" width="100%"/>
