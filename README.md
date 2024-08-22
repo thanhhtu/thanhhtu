@@ -23,10 +23,10 @@
   <a href="mailto: thanhtuvo2004@gmail.com" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/gmail.svg" height="30" width="40" />
   </a>
-  <a href="https://fb.com/https://www.facebook.com/hellothanhhtu" target="blank">
+  <a href="https://www.facebook.com/hellothanhhtu" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/facebook.svg" alt="https://www.facebook.com/hellothanhhtu" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/thanhhtu/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" height="30" width="40" />
+  <a href="https://www.linkedin.com/in/thanhhtu/" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" alt="https://www.linkedin.com/in/thanhhtu/" height="30" width="40" />
   </a>
 </p>
