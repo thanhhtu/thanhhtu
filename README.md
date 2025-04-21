@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Thanh Tu 👋</h1>
 
 ## About me:
-🌱 I'm a student at Danang University of Technology. <br>
+🌱 I'm a student at University of Science and Technology - The University of Danang. <br>
 
 ## Activities:
 <table style="width:100%">
